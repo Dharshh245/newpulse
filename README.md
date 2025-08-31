@@ -1,4 +1,4 @@
-# newpulse
+# NEWPULSE
 Newspulse Documantation 
 Content (What the app does)
 Interactive Streamlit app to fetch, explore, and analyze live news.
